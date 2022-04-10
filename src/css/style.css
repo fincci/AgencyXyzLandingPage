@@ -41,7 +41,7 @@ body {
 }
 
 .header a:hover h1 {
-    color: #f7e49c;
+    color: #fdf690;
 }
 
 /* HERO */
@@ -208,11 +208,12 @@ body {
 
 .projects img {
     height: 100%;
+    transition: 0.5s;
 }
 
 .projects a:hover img {
-    opacity: 0.8;
-    transition: 0.3s;
+    transition: 0.5s;
+    transform: scale(1.05);
 }
 
 @media (max-width: 768px) {
