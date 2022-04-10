@@ -41,7 +41,7 @@ body {
 }
 
 .header a:hover h1 {
-    color: coral;
+    color: lightgreen;
 }
 
 /* HERO */
@@ -162,6 +162,7 @@ body {
 
 .services .service {
     padding: 70px 20px;
+    display: block;
 }
 
 .services .service img {
@@ -180,6 +181,7 @@ body {
     max-width: 400px;
     margin: 20px auto 0;
     line-height: 25px;
+    text-align: justify;
 }
 
 .services .service:nth-child(1) {
