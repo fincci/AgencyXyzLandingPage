@@ -12,8 +12,8 @@
 }
 
 .header nav ul li a:hover {
-    color: white;
-    background-color: lightgreen;
+    /* color: white; */
+    background-color: #f7e49c;
 }
 
 /* responsive */
