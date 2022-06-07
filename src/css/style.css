@@ -158,11 +158,11 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     text-align: center;
+    max-width: var(--max-width-size);
 }
 
 .services .service {
     padding: 70px 20px;
-    display: block;
 }
 
 .services .service img {
